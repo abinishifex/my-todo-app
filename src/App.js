@@ -5,8 +5,11 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>Welcome to My React App</h1>
-        <p>Created with react </p>
+        <h1>This is my portfolio</h1>
+        <h2>Welcome to my personal website!</h2>
+        <p>This is this the event</p>
+        <ul>what makes me confident</ul>
+        
         </header>
     </div>
   );
